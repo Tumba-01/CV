@@ -23,7 +23,7 @@ const sensitiveContent = `
             <a href="https://links.kulpinac.com/@sergej" target="_blank" rel="noopener noreferrer">
             <iconify-icon icon="dashicons:admin-links"></iconify-icon> Links 
         </a>
-        <a href="https://sergejkulpinac.dev" target="_blank" rel="noopener noreferrer">
+        <a href="https://sergej.kulpinac.com" target="_blank" rel="noopener noreferrer">
             <iconify-icon icon="dashicons:portfolio"></iconify-icon> My Site
         </a>
     </p>
